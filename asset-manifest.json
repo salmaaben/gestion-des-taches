@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gestion-des-taches/static/css/main.a7da8df1.css",
+    "main.js": "/gestion-des-taches/static/js/main.a1d165f2.js",
+    "static/js/453.3f34fd92.chunk.js": "/gestion-des-taches/static/js/453.3f34fd92.chunk.js",
+    "static/media/IAVRABAT.jpg": "/gestion-des-taches/static/media/IAVRABAT.7aac36918159453f99b3.jpg",
+    "index.html": "/gestion-des-taches/index.html",
+    "main.a7da8df1.css.map": "/gestion-des-taches/static/css/main.a7da8df1.css.map",
+    "main.a1d165f2.js.map": "/gestion-des-taches/static/js/main.a1d165f2.js.map",
+    "453.3f34fd92.chunk.js.map": "/gestion-des-taches/static/js/453.3f34fd92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7da8df1.css",
+    "static/js/main.a1d165f2.js"
+  ]
+}
